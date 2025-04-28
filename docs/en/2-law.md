@@ -440,9 +440,7 @@ The aforementioned philosophical works, among others, prepared by Chairman Mao i
 
 2) He points out that there are only two types of war and one way to eliminate war:
 
-> “War, this monster of mutual slaughter among men, will be finally eliminated by the progress of human society, and in the not too distant future too. But **there is only one way to eliminate it and that is to oppose war with war, to oppose counter-revolutionary war with revolutionary war**, to oppose national counter-revolutionary war with national revolutionary war, and to oppose counter- revolutionary class war with revolutionary class war. **History knows only two kinds of war, just and**
->
-> **unjust. We support just wars and oppose unjust wars. All counter-revolutionary wars are unjust, all revolutionary wars are just.**” (Chairman Mao)[71]
+> “War, this monster of mutual slaughter among men, will be finally eliminated by the progress of human society, and in the not too distant future too. But **there is only one way to eliminate it and that is to oppose war with war, to oppose counter-revolutionary war with revolutionary war**, to oppose national counter-revolutionary war with national revolutionary war, and to oppose counter- revolutionary class war with revolutionary class war. **History knows only two kinds of war, just and unjust. We support just wars and oppose unjust wars. All counter-revolutionary wars are unjust, all revolutionary wars are just.**” (Chairman Mao)[71]
 
 3) He Analyzes all the military problems from the perspective of unity and struggle between two opposing aspects:
 
