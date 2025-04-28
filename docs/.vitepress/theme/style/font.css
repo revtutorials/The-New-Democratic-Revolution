@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Noto Sans CJK SC';
-    src: url('../../assets/NotoSansCJKsc-VF.otf') format('opentype'); /* 提供多种格式以兼容不同浏览器 */
+    /*src: url('../../assets/NotoSansCJKsc-VF.otf') format('opentype'); /* 提供多种格式以兼容不同浏览器 */
 }
 
 body {
